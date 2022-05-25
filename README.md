@@ -11,6 +11,7 @@
 - [Learn: Create bots with Power Virtual Agents](https://docs.microsoft.com/en-us/learn/paths/work-power-virtual-agents/)
 - [Intro to Tech Skills at Microsoft Build 2022 Repo](https://github.com/microsoft/AcademicContent/tree/main/microsoft-conferences/2022/Build)
 - [Adaptive Cards Designer](https://adaptivecards.io/designer/)
+- [List of Power Automate Connectors](https://docs.microsoft.com/en-us/connectors/connector-reference/connector-reference-powerautomate-connectors)
 
 ## Developer Relations Hackathon Team
 
